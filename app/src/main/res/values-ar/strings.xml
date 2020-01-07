@@ -1,0 +1,206 @@
+<resources>
+
+    <string name="feedback_title">أرسل بريد إلكتروني</string>
+    <string name="donate_title">ادعم المشروع</string>
+    <string name="donate_url">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick\u0026hosted_button_id=QYN932S5UQG8N</string>
+    <string name="create_url">https://cloud.supla.org/register?lang=pl</string>
+
+    <string name="version">الإصدار</string>
+
+    <string name="feedback">ردود الفعل</string>
+    <string name="about">عن البرنامج</string>
+    <string name="settings">الإعدادات</string>
+    <string name="add_device">إضافة جهاز</string>
+
+    <string name="status_connecting">جار الاتصال ...</string>
+    <string name="status_unknown_err">خطأ غير معروف</string>
+    <string name="status_temporarily_unavailable">الخدمة غير متاحة مؤقتًا</string>
+    <string name="status_bad_credentials">بيانات الاعتماد غير صحيحة</string>
+    <string name="status_climit_exceded">تم تجاوز حد تطبيق العميل</string>
+    <string name="status_version_error">إصدار الخادم غير متوافق</string>
+    <string name="status_reg_disabled">التسجيل معطل حاليًا. لتمكينه، انتقل إلى علامة التبويب \ "Smartphones \" في صفحة٪ 1 $ s</string>
+    <string name="status_access_id_not_assigned">لا يحتوي هذا الجهاز على معرف وصول معين. انتقل إلى٪ 1 $ s وقم بتعيين المعرف المناسب في علامة التبويب \ "Smartphones \".</string>
+    <string name="status_device_disabled">الجهاز مغلق</string>
+    <string name="status_accessid_disabled">معرف الوصول معطل</string>
+
+    <string name="err_hostnotfound">عنوان الخادم غير موجود</string>
+    <string name="err_cantconnecttohost">غير قادر على الاتصال بالخادم</string>
+
+    <string name="channel_func_gateway">بوابة صغيرة</string>
+    <string name="channel_func_gate">بوابة</string>
+    <string name="channel_func_garagedoor">باب المرآب</string>
+    <string name="channel_func_door">باب</string>
+    <string name="channel_func_rollershutter">الأبجور</string>
+    <string name="channel_func_powerswith">مفتاح الطاقة</string>
+    <string name="channel_func_lightswith">مفتاح الضوء</string>
+    <string name="channel_func_thermometer">ميزان الحرارة</string>
+    <string name="channel_func_humidity">الرطوبة</string>
+    <string name="channel_func_humidityandtemperature">درجة الحرارة والرطوبة</string>
+    <string name="channel_func_windsensor">سرعة الرياح</string>
+    <string name="channel_func_pressuresensor">مستشعر الضغط</string>
+    <string name="channel_func_rainsensor">قياس الهطول</string>
+    <string name="channel_func_weightsensor">الوزن</string>
+    <string name="channel_func_dimmer">العاتم</string>
+    <string name="channel_func_rgblighting">إضاءة  RGB</string>
+    <string name="channel_func_dimmerandrgblighting">العاتم وإضاءة RGB</string>
+    <string name="channel_func_noliquidsensor">مستشعر نقص السائل</string>
+    <string name="channel_func_gatewayopeningsensor">مستشعر فتح البوابة الصغيرة</string>
+    <string name="channel_func_gateopeningsensor">مستشعر فتح البوابة</string>
+    <string name="channel_func_garagedooropeningsensor">مستشعر فتح باب المرآب</string>
+    <string name="channel_func_dooropeningsensor">مستشعر فتح الباب</string>
+    <string name="channel_func_rsopeningsensor">مستشعر فتح الستائر</string>
+    <string name="channel_func_depthsensor">مستشعر العمق</string>
+    <string name="channel_func_distancesensor">مستشعر المسافة</string>
+    <string name="channel_func_windowopeningsensor">مستشعر فتح النافذة</string>
+    <string name="channel_func_mailsensor">مستشعر البريد</string>
+
+    <string name="rgb_brightness">السطوع</string>
+    <string name="rgb_color">اللون</string>
+    <string name="rgb_state">الحالة</string>
+
+    <string name="channel_btn_open">فتح</string>
+    <string name="channel_btn_openclose">فتح إغلاق</string>
+    <string name="channel_btn_on">تشغيل</string>
+    <string name="channel_btn_off">إيقاف التشغيل</string>
+
+    <string name="event_openedthegateway">فتح البوابة الصغيرة</string>
+    <string name="event_openedclosedthegate">فتح / غلق البوابة</string>
+    <string name="event_openedclosedthegatedoors">فتح / غلق باب المرآب</string>
+    <string name="event_openedthedoor">فتح الباب</string>
+    <string name="event_openedcloserollershutter">فتح / غلق الأبجور</string>
+    <string name="event_poweronoff">تشغيل / إيقاف تشغيل الطاقة</string>
+    <string name="event_turnedthelightonoff">تشغيل / إيقاف تشغيل الضوء</string>
+
+    <string name="server_address">عنوان الخادم</string>
+    <string name="access_id">معرف الوصول</string>
+    <string name="password">كلمة المرور</string>
+    <string name="email">عنوان البريد الإلكتروني</string>
+    <string name="advanced_settings">الإعدادات المتقدمة</string>
+    <string name="create_account"><u> إنشاء حساب </ u></string>
+
+    <string name="about_app">"  This program is free software; you can redistribute it and/or   modify it under the terms of the GNU General Public License   as published by the Free Software Foundation; either version 2   of the License, or (at your option) any later version.     This program is distributed in the hope that it will be useful,   but WITHOUT ANY WARRANTY; without even the implied warranty of   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the   GNU General Public License for more details.     You should have received a copy of the GNU General Public License   along with this program; if not, write to the Free Software   Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA     "</string>
+
+    <string name="rate_msg">إذا كنت تحب هذا التطبيق، فالرجاء قضاء بعض الوقت لتقييمه. شكرا لدعمكم!</string>
+    <string name="rate_now">قيم التطبيق الآن</string>
+    <string name="rate_later">فيما بعد</string>
+    <string name="rate_no_thanks">لا، شكرا</string>
+    <string name="rs_percent_caption">النسبة المئوية للإغلاق</string>
+    <string name="calibration">]المعايرة[</string>
+
+    <string name="add_wizard_is_not_available">يتوفر "معالج الإضافة" فقط عند إنشاء الاتصال بالخادم استنادًا إلى عنوان البريد الإلكتروني الذي تم إدخاله في الإعدادات!</string>
+    <string name="device_registration_disabled">تم تعطيل تسجيل جهاز الإدخال / الإخراج حاليًا. للمتابعة، انتقل إلى صفحة٪ 1 $ s وفي علامة التبويب "SUPLA" ، قم بتمكين إضافة الأجهزة.</string>
+
+    <string name="wizard_step1_txt1">مرحبًا بك في معالج إضافة الجهاز، والذي سيساعدك على إضافة جهاز جديد إلى النظام بطريقة سريعة وسهلة.</string>
+    <string name="wizard_step1_txt2">للمتابعة، اضغط على <b> التالي </b>.</string>
+    <string name="next">التالي</string>
+    <string name="start">START</string>>
+
+    <string name="wizard_step2_txt1">أدخل كلمة المرور لشبكة WiFi الخاصة بك التي اسمها</string>
+    <string name="wizard_step2_txt3">*) سيتم استخدام شبكة٪ 1 $ s بواسطة الجهاز التنفيذي للاتصال بالخادم.</string>
+    <string name="wizard_remember_passwd">تذكر كلمة المرور</string>
+
+    <string name="wizard_step3_txt1">قم بتوصيل الجهاز التنفيذي الخاص بك إلى الطاقة. يجب أن يعمل الجهاز في وضع التهيئة بشكل افتراضي، وذلك من خلال وميض مؤشر LED للحالة كما يلي</string>
+    <string name="wizard_step3_txt2">Jإذا لم يعمل الجهاز في وضع التكوين بعد تشغيل الطاقة، فاضغط بشكل مستمر على زر <b> CONFIG </b> لمدة 5 ثوانٍ على الأقل.</string>
+    <string name="wizard_step3_txt3">اضغط على الزر <b> START </b> لبدء التكوين.</string>
+
+    <string name="wizard_server_compat_error">الخادم الذي تتصل به لا يدعم هذه الوظيفة!</string>
+    <string name="wizard_no_internetwifi">قبل أن تبدأ، قم بالاتصال بالإنترنت عبر شبكة WiFi ، والتي ستستخدمها أيضًا الأجهزة التنفيذية للاتصال بالخادم.</string>
+    <string name="wizard_wifi_error">تم إيقاف تشغيل شبكة WiFi أو لا يمكن قراءة معرفها أو اسمها!</string>
+    <string name="wizard_addnetwork_error">لا يمكن إضافة تكوين شبكة WiFi!</string>
+    <string name="wizard_wifi_timeout">تم تجاوز وقت الانتظار لبيانات WiFi الحالية!</string>
+    <string name="wizard_scan_timeout">تم تجاوز وقت الانتظار لاكتمال البحث عن شبكة   WiFi!</string>
+    <string name="wizard_connect_timeout">تم تجاوز وقت الانتظار لتأسيس اتصال مع الجهاز التنفيذي!</string>
+    <string name="wizard_configure_timeout">تم تجاوز وقت الانتظار لاستكمال تكوين الجهاز!</string>
+    <string name="wizard_reconnect_timeout">تم تجاوز وقت الانتظار للعودة إلى شبكة WiFi الأساسية!</string>
+    <string name="device_reg_request_timeout">تم تجاوز وقت انتظار المعلومات حول توفر تسجيل الجهاز!</string>
+
+    <string name="wizard_iodevice_notfound">لم يتم العثور على أية أجهزة! تأكد من أن الجهاز الذي تريد تكوينه في وضع التكوين، ثم حاول مرة أخرى. هام: تتطلب بعض إصدارات أندرويد  تمكين GPS للسماح للتطبيقات بالبحث عن شبكة WiFi ، لذلك تأكد أيضًا من تمكين GPS.</string>
+
+
+    <string name="wizard_done">تم تكوين الجهاز بنجاح  :)</string>
+    <string name="wizard_iodev_data">بيانات الجهاز</string>
+    <string name="wizard_iodev_name">الاسم</string>
+    <string name="wizard_iodev_laststate">الوضع السابق</string>
+
+    <string name="wizard_result_param_error">معلمات الإدخال غير صالحة!</string>
+    <string name="wizard_result_compat_error">الجهاز الذي تتصل به غير متوافق مع هذا المعالج!</string>
+    <string name="wizard_result_conn_error">لا يمكن الاتصال بالجهاز!</string>
+    <string name="wizard_result_failed">فشل التكوين!</string>
+    <string name="wizard_not_enought_permissions">لا يحتوي التطبيق على أذونات كافية. انتقل إلى إدارة التطبيقات في إعدادات النظام. ثم ابحث عن التطبيق٪ 1 $ s وقم بتمكين جميع الأذونات التي يحتاجها.</string>
+    <string name="help">المساعدة</string>
+    <string name="channel_func_staircasetimer">الدرج الآلي</string>
+
+    <string name="channel_func_electricitymeter">عداد الكهرباء</string>
+    <string name="channel_func_gasmeter">عداد الغاز</string>
+    <string name="channel_func_watermeter">عداد المياه</string>
+
+    <string name="em_total_forward_avtive_energy">الطاقة النشطة المستهلكة</string>
+    <string name="em_reverse_active_energy">الطاقة النشطة المرتجعة</string>
+    <string name="em_total_forward_reactive_energy">الطاقة الحيادية المستهلكة</string>
+    <string name="em_total_reverse_reactive_energy">الطاقة الحيادية المرتجعة</string>
+    <string name="em_frequency">التردد</string>
+    <string name="em_voltage">التوتر</string>
+    <string name="em_current">كثافة</string>
+    <string name="em_power_active">الاستطاعة النشطة</string>
+    <string name="em_power_reactive">الاستطاعة الحيادية</string>
+    <string name="em_power_factor">عامل الاستطاعة</string>
+    <string name="em_phase_angle">زاوية الطور</string>
+    <string name="em_power_apparent">الاستطاعة الظاهرية</string>
+    <string name="em_phase1">الطور 1</string>
+    <string name="em_phase2">الطور 2</string>
+    <string name="em_phase3">الطور 3</string>
+    <string name="channel_func_thermostat">منظم الحرارة</string>
+    <string name="channel_func_thermostat_hp_homeplus">سخان Home+</string>
+    <string name="hp_on">مشغل</string>
+    <string name="hp_off">معطل</string>
+    <string name="hp_turn_on">تشغيل</string>
+    <string name="hp_turn_off">إيقاف التشغيل</string>
+    <string name="hp_normal">NORMAL عادي</string>
+    <string name="hp_eco">ECO اقتصادي</string>
+    <string name="hp_turbo">TURBO توربو</string>
+    <string name="hp_auto">AUTO آلي</string>
+    <string name="hp_room_temperature">درجة حرارة الغرفة</string>
+    <string name="hp_cfg_turbo_time">مدة استمرار وضع TURBO توربو</string>
+    <string name="hp_cfg_water_max">درجة الحرارة القصوى للماء</string>
+    <string name="hp_cfg_eco_reduction">تخفيض درجة الحرارة في وضع  ECOاقتصادي</string>
+    <string name="hp_cfg_temp_comfort_auto">درجة حرارة الراحة في وضع  AUTOآلي</string>
+    <string name="hp_temp_comfort">الراحة</string>
+    <string name="hp_cfg_temp_eco">درجة حرارة ECO في وضع  AUTO</string>
+    <string name="hp_hour">godz.</string>
+    <string name="total_cost">التكلفة الإجمالية</string>
+    <string name="current_cost">التكلفة في الشهر الحالي</string>
+    <string name="current_consumption">الاستهلاك في الشهر الحالي</string>
+    <string name="impulses_count">عدد النبضات</string>
+    <string name="meter_value">قراءة العداد</string>
+    <string name="channel_func_impulsecounter">عداد النبضات</string>
+    <string name="minutes">الدقائق</string>
+    <string name="hours">الساعات</string>
+    <string name="days">الأيام</string>
+    <string name="months">الأشهر</string>
+    <string name="years">السنوات</string>
+    <string name="ranking_of_hours">ترتيب الساعات</string>
+    <string name="ranking_of_weekdays">ترتيب أيام الأسبوع</string>
+    <string name="ranking_of_months">ترتيب الأشهر</string>
+    <string name="consumption_acording_to_phases">الاستهلاك وفقا للطور</string>
+    <string name="temperature">درجة الحرارة</string>
+    <string name="humidity">الرطوبة</string>
+    <string name="last24hours">آخر 24 ساعة</string>
+    <string name="last7days">آخر 7 أيام</string>
+    <string name="last30days">آخر 30 يومًا</string>
+    <string name="last90days">آخر 90 يومًا</string>
+    <string name="all_available_history">كل التاريخ المتاح</string>
+    <string name="retrieving_data_from_the_server">جارٍ تنزيل البيانات من الخادم ...</string>
+    <string name="no_chart_data_available">لا توجد بيانات للمخطط.</string>
+    <string name="comparsion_minmin">مقارنة دقيقة بدقيقة</string>
+    <string name="comparsion_hourhour">مقارنة ساعة بساعة</string>
+    <string name="comparsion_dayday">مقارنة يوم بآخر</string>
+    <string name="comparsion_monthmonth">مقارنة شهر بشهر</string>
+    <string name="comparsion_yearyear">مقارنة سنة بسنة</string>
+    <string name="hp_error_1">لا ماء</string>
+    <string name="hp_error_2">السخان محترق</string>
+    <string name="hp_error_3">خطأ في استشعار درجة حرارة الماء</string>
+    <string name="hp_error_4">خطأ في استشعار درجة حرارة الغرفة</string>
+    <string name="hp_error_5">لا انقطاعات في الشبكة</string>
+    <string name="production_acording_to_phases">الإنتاج وفقا للطور</string>
+    <string name="current_production">الإنتاج في الشهر الحالي</string>
+</resources>
